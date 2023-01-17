@@ -36,3 +36,13 @@ git add .
 git status
 git commit -m "Change Command.txt File with Tag"
 git log
+
+# Create index.html file
+
+git add .
+git commit -m "add index.html file"
+
+# Change index.html file
+
+git add .
+git commit -m "Change index.html file"
