@@ -5,3 +5,34 @@ git config user.name "BehrOOz"
 git config user.email "behrooz.ameri@gmail.com"
 
 # Create Command.txt file
+
+git status
+git add .
+git status
+git commit -m "first_commit"
+git log
+
+# Change Command.txt file
+
+git status
+git add .
+git status
+git commit -m "2_commit"
+git log
+
+# Change Command.txt file
+
+git status
+git add .
+git status
+git commit -m "3_commit"
+git log
+
+# Change Command.txt file
+
+git tag "Step_1"
+git status
+git add .
+git status
+git commit -m "Change Command.txt File with Tag"
+git log
