@@ -17,5 +17,13 @@ git log
 git status
 git add .
 git status
-git commit -m "first_commit"
+git commit -m "2_commit"
+git log
+
+# Change Command.txt file
+
+git status
+git add .
+git status
+git commit -m "3_commit"
 git log
