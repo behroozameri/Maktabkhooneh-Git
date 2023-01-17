@@ -1,0 +1,13 @@
+mkdir git-learn
+cd git-learn/
+git init
+git config user.name "BehrOOz"
+git config user.email "behrooz.ameri@gmail.com"
+
+# Create Command.txt file with nano
+
+git status
+git add .
+git status
+git commit -m "first_commit"
+git log
