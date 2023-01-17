@@ -46,3 +46,6 @@ git commit -m "add index.html file"
 
 git add .
 git commit -m "Change index.html file"
+
+git diff HEAD~1
+git diff HEAD~2 Command.txt
