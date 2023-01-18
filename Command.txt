@@ -54,3 +54,4 @@ git tag "Final"
 git add .
 git commit -m "Final"
 
+git log --oneline
