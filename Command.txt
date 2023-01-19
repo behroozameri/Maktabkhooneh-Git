@@ -57,3 +57,5 @@ git commit -m "Final"
 git log --oneline
 
 git clone git@github.com:behroozameri/Maktabkhooneh-Git.git
+
+git log --oneline
